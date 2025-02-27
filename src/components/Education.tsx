@@ -22,8 +22,8 @@ const data = {
   experience: [
     {
       title: "Ministry of Civil Service (MCS)",
-      duration: "2023-current",
-      role: "Front End Developer",
+      duration: "2024-current",
+      role: "Contract officer",
     },
     {
       title: "Digital Government Committee (DGC)",

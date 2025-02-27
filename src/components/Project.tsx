@@ -8,6 +8,18 @@ const Projects = () => {
       image: "/neakhatka.jpg",
       link: "https://neakhatka.com/",
     },
+    {
+      name: "Medical",
+      project: "",
+      image: "/medical.jpg",
+      link: "https://medical-project-ebon.vercel.app/",
+    },
+    {
+      name: "Neakhatka",
+      project: "UI figma design ",
+      image: "/Neakhatka design.png",
+      link: "https://www.figma.com/design/Cvvmjfhl1K2c8EkXBRK3OF/Neakhatka?node-id=163-590&t=JISHfwzpR7yLU2Oh-0",
+    },
   ];
 
   return (

@@ -45,6 +45,11 @@ const tools = [
     description: "User Interface",
     icon: "/skills/mui.jpg",
   },
+  {
+    name: "Trello",
+    description: "Management tool",
+    icon: "/skills/trello.jpg",
+  },
 ];
 
 const EssentialTools = () => {
