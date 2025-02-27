@@ -64,7 +64,7 @@ const Footer = () => {
         <Typography variant="body2" sx={{ color: "#dcdcdc" }}>
           Design and Developed By{" "}
           <a
-            href="https://themewagon.com/"
+            href=""
             style={{ color: "#a0e9f1", textDecoration: "underline" }}
           >
             Chhuon Rathna
